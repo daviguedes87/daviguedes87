@@ -4,7 +4,7 @@
 Meu nome é **Davi** e sou um estudante e desenvolvedor **Full-stack**  do Brasil. 
 Amo criar aplicações web, aprender novas tecnologias e, principalmente, compartilhar conhecimento.
 
-Atualmente, estou construindo minha base técnica através do curso da **DIO** e do curso de analise e desenvolvimento de sistemas pela **UNOPAR**. Sempre procuro desenvolver projetos focados em ter um **CÓDIGO LIMPO E COMENTADO** 
+Atualmente, estou construindo minha base técnica através do curso da **DIO** e do curso de análise e desenvolvimento de sistemas pela **UNOPAR**. Sempre procuro desenvolver projetos focados em ter um **CÓDIGO LIMPO E COMENTADO** 
 ###
 🚀Se você tem alguma dúvida, quer trocar uma ideia sobre código ou fazer networking, vamos conversar!
 ###
