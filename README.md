@@ -10,7 +10,9 @@ Atualmente, estou construindo minha base técnica através do curso da **DIO** e
 ###
 💼 Estou aberto para trabalhos **CLT**, **FREELANCER**!
 
-Você pode me encontrar pelo  [E-mail](davi0799@gmail.com ) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998143998) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davibguedes/)
+Você pode me encontrar pelo  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998143998)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davibguedes/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davi0799@gmail.com)
 
 ---
 
